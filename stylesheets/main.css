@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  -webkit-box-sizing: inherit;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+}
+
+#container {
+  margin: 0 auto;
+  width: 960px;
+  text-align: left;
+}
