@@ -35,7 +35,8 @@ header h1 {
 }
 
 article h2 {
-  border-bottom: 1px solid #30537F;
+  border-bottom: 1px solid #4D85CC;
+  padding-bottom: 5px;
 }
 
 #portfolio-links {
