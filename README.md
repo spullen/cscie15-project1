@@ -1,6 +1,6 @@
 # CSCI E-15 Project 1
 
-[Visit Site]()
+[Visit Site](http://104.131.52.186/cscie15/p1/)
 
 [Demo]()
 
