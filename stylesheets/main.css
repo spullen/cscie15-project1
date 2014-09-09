@@ -37,3 +37,21 @@ header h1 {
 article h2 {
   border-bottom: 1px solid #30537F;
 }
+
+#portfolio-links {
+  padding: 0;
+  list-style: none;
+}
+
+#portfolio-links a {
+  text-decoration: none;
+  color: #4D85CC;
+}
+
+#portfolio-links a:hover {
+  text-decoration: underline;
+}
+
+#portfolio-links a:visited {
+  color: #30537F;
+}
